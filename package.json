@@ -1,6 +1,7 @@
 {
   "name": "vuex-flashcards",
   "version": "0.1.0",
+  "homepage": "https://valdrox.github.io/vuex-flashcards/",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
